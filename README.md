@@ -21,7 +21,7 @@
 **Tools:** VS Code, Eclipse, IntelliJ, Postman, SoapUI, SonarQube, Xray
 
 ## 📫 Let's Connect
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ubterzioglu/)) | [Email](mailto:ubterzioglu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ubterzioglu/) | [Email](mailto:ubterzioglu@gmail.com)
 
 ---
 💡 *"Everyone needs help from everyone." - Bertolt Brecht*
