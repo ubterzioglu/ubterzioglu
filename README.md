@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Umut (Hope & Peace)
+# 👋 Hi, I'm Umut
 
 ## 🎯 Currently Seeking Opportunities
 - 💼 Test Lead | Test Manager | QA Engineer | Test Automation Engineer
