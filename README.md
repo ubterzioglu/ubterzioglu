@@ -14,11 +14,20 @@
 - 🇪🇺 EU Work Authorized
 
 ## 🛠️ Tech Stack
-**Test Management:** HP ALM, JIRA, Polarion  
-**Automation:** Ranorex, Selenium  
-**Programming:** Python, C#, Java  
-**DevOps:** Docker, Jenkins, Maven, Git  
-**Tools:** VS Code, Eclipse, IntelliJ, Postman, SoapUI, SonarQube, Xray
+🧪 Test Management
+🗂️ HP ALM * 📋 JIRA * ⚙️ Polarion
+
+🤖 Automation
+🧩 Ranorex * 🌐 Selenium
+
+💻 Programming
+🐍 Python * 🔷 C# * ☕ Java
+
+🔧 DevOps
+🐳 Docker * ⚙️ Jenkins * 📦 Maven * 🌱 Git
+
+🛠️ Tools
+🖊️ VS Code * 🎓 Eclipse * 🚀 IntelliJ * 📮 Postman * 🧼 SoapUI * 📊 SonarQube * 🔍 Xray
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/ubterzioglu/) | [Email](mailto:ubterzioglu@gmail.com)
