@@ -15,23 +15,23 @@
 
 ## 🛠️ Tech Stack
 
-🧪 Test Management
+## 🧪 Test Management
 
 🗂️ HP ALM * 📋 JIRA * ⚙️ Polarion
 
-🤖 Automation
+## 🤖 Automation
 
 🧩 Ranorex * 🌐 Selenium
 
-💻 Programming
+## 💻 Programming
 
 🐍 Python * 🔷 C# * ☕ Java
 
-🔧 DevOps
+## 🔧 DevOps
 
 🐳 Docker * ⚙️ Jenkins * 📦 Maven * 🌱 Git
 
-🛠️ Tools
+## 🛠️ Tools
 🖊️ VS Code * 🎓 Eclipse * 🚀 IntelliJ * 📮 Postman * 🧼 SoapUI * 📊 SonarQube * 🔍 Xray
 
 ## 📫 Let's Connect
