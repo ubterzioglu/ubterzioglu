@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Umut
+# 👋 Hi, I'm Umut Baris Terzioglu
+# 💻 Senior Software Quality Assurance Engineer
 
 ## 🎯 Currently Seeking Opportunities
 - 💼 Test Lead | Test Manager | QA Engineer | Test Automation Engineer
