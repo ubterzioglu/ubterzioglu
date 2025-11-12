@@ -14,16 +14,21 @@
 - 🇪🇺 EU Work Authorized
 
 ## 🛠️ Tech Stack
+
 🧪 Test Management
+
 🗂️ HP ALM * 📋 JIRA * ⚙️ Polarion
 
 🤖 Automation
+
 🧩 Ranorex * 🌐 Selenium
 
 💻 Programming
+
 🐍 Python * 🔷 C# * ☕ Java
 
 🔧 DevOps
+
 🐳 Docker * ⚙️ Jenkins * 📦 Maven * 🌱 Git
 
 🛠️ Tools
