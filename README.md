@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/ubterzioglu/count.svg)
+![Visitor Count](https://visitor-badge.laobi.dev/badge?page_id=ubterzioglu)
 
 # 👋 Hi, I'm Umut Baris Terzioglu
 # 💻 Senior Software Quality Assurance Engineer
