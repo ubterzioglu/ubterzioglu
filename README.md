@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=ubterzioglu)
+![You are visitor number:](https://komarev.com/ghpvc/?username=ubterzioglu)
 
 # 👋 Hi, I'm Umut Baris Terzioglu
 # 💻 Senior Software Quality Assurance Engineer
