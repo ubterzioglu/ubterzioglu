@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/<KULLANICI_ADIN>/count.svg)
+
 # 👋 Hi, I'm Umut Baris Terzioglu
 # 💻 Senior Software Quality Assurance Engineer
 
