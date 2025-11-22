@@ -1,4 +1,5 @@
-![You are visitor number:](https://komarev.com/ghpvc/?username=ubterzioglu)
+![](https://komarev.com/ghpvc/?username=ubterzioglu&label=You+are+visitor+number)
+
 
 # 👋 Hi, I'm Umut Baris Terzioglu
 # 💻 Senior Software Quality Assurance Engineer
