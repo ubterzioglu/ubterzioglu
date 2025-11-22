@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.dev/badge?page_id=ubterzioglu.ubterzioglu)
+![Profile views](https://komarev.com/ghpvc/?username=ubterzioglu)
 
 # 👋 Hi, I'm Umut Baris Terzioglu
 # 💻 Senior Software Quality Assurance Engineer
