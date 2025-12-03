@@ -66,7 +66,7 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 
 ## 📊 GitHub Activity
 
-### 🔥 GitHub Stats  (Working Version)
+### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubterzioglu&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubterzioglu&theme=tokyonight" />
@@ -79,10 +79,6 @@ I specialize in ensuring software quality end-to-end — from manual test analys
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-### 📈 GitHub Summary Card  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubterzioglu&theme=tokyonight" />
-</p>
 
 ---
 
