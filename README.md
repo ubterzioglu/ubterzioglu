@@ -12,10 +12,15 @@
 ### 🧪 Senior Software Quality Assurance Engineer | Test Lead | Automation Enthusiast  
 
 🔹I ensure software quality from end to end.
+
 🔹I analyze requirements and design effective test strategies.
+
 🔹I build reliable automation workflows for stable releases.
+
 🔹I coordinate with cross-functional teams to keep delivery smooth.
+
 🔹I bring 15+ years of experience across Automotive, Logistics, and Industry 4.0.
+
 
 🌐 **Personal Website:**  
 ➡️ https://ubterzioglu.de  
