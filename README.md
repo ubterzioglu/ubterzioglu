@@ -11,8 +11,11 @@
 # 👋 Hi, I'm Umut Barış Terzioğlu  
 ### 🧪 Senior Software Quality Assurance Engineer | Test Lead | Automation Enthusiast  
 
-I specialize in ensuring software quality end-to-end — from manual test analysis to automation, from enterprise QA processes to cross-team coordination.  
-15+ years across Automotive, Logistics, Industry 4.0, and large global environments.
+🔹I ensure software quality from end to end.
+🔹I analyze requirements and design effective test strategies.
+🔹I build reliable automation workflows for stable releases.
+🔹I coordinate with cross-functional teams to keep delivery smooth.
+🔹I bring 15+ years of experience across Automotive, Logistics, and Industry 4.0.
 
 🌐 **Personal Website:**  
 ➡️ https://ubterzioglu.de  
@@ -20,21 +23,21 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 ---
 
 ## 🚀 Currently Seeking Opportunities
-- Test Lead • Test Manager • Senior QA Engineer • Automation Engineer  
-- Open to roles in **Germany & EMEA**  
-- Ready to **Relocate** and **Travel**  
-- EU Work Authorized  
+🔹Test Lead • Test Manager • Senior QA Engineer • Automation Engineer  
+🔹Open to roles in **Germany & EMEA**  
+🔹 Ready to **Relocate** and **Travel**  
+🔹 EU Work Authorized  
 
 ---
 
 ## 🏆 Professional Highlights
-- 🔹 **15+ Years** in Software Testing  
-- 🔹 Lead QA on major enterprise projects  
-- 🔹 ISTQB Certified  
-- 🔹 Agile with Scrum  
-- 🔹 Trilingual (EN/DE/TR)  
-- 🔹 Automation + CI/CD experience  
-- 🔹 EU Work Permit  
+🔹 **15+ Years** in Software Testing  
+🔹 Lead QA on major enterprise projects  
+🔹 ISTQB Certified  
+🔹 Agile with Scrum  
+🔹 Trilingual (EN/DE/TR)  
+🔹 Automation + CI/CD experience  
+🔹 EU Work Permit  
 
 ---
 
