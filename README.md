@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fdd800&height=200&section=header&text=Umut%20Baris%20Terzioglu&fontSize=42&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fdd800&height=200&section=header&text=Umut%20Barış%20Terzioğlu&fontSize=42&fontColor=000000" />
 </p>
 
 <!-- Visitor Counter -->
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ubterzioglu&label=You+are+visitor+number&color=fdd800&style=flat-square" />
 </p>
 
-# 👋 Hi, I'm Umut Baris Terzioglu  
+# 👋 Hi, I'm Umut Barış Terzioğlu  
 ### 🧪 Senior Software Quality Assurance Engineer | Test Lead | Automation Enthusiast  
 
 I specialize in ensuring software quality end-to-end — from manual test analysis to automation, from enterprise QA processes to cross-team coordination.  
