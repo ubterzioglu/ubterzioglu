@@ -68,8 +68,8 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 
 ### 🔥 GitHub Stats  (Working Version)
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ubterzioglu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ubterzioglu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=ubterzioglu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ubterzioglu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ### 🐍 Contribution Snake  
