@@ -1,9 +1,11 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4AFB&height=200&section=header&text=Umut%20Baris%20Terzioglu&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fdd800&height=200&section=header&text=Umut%20Baris%20Terzioglu&fontSize=42&fontColor=000000" />
 </p>
 
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ubterzioglu&label=You+are+visitor+number&color=0A4AFB&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ubterzioglu&label=You+are+visitor+number&color=fdd800&style=flat-square" />
 </p>
 
 # 👋 Hi, I'm Umut Baris Terzioglu  
@@ -11,6 +13,9 @@
 
 I specialize in ensuring software quality end-to-end — from manual test analysis to automation, from enterprise QA processes to cross-team coordination.  
 15+ years across Automotive, Logistics, Industry 4.0, and large global environments.
+
+🌐 **Personal Website:**  
+➡️ https://ubterzioglu.de  
 
 ---
 
@@ -36,7 +41,7 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 ## 🧰 Tech Stack (Core QA & Automation)
 
 ### **Test Management**
-![HP ALM](https://img.shields.io/badge/-HP%20ALM-0a4afb?logoColor=white)
+![HP ALM](https://img.shields.io/badge/-HP%20ALM-fdd800?logoColor=black)
 ![Jira](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
 ![Polarion](https://img.shields.io/badge/-Polarion-0A3C7B)
 
@@ -61,10 +66,10 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 
 ## 📊 GitHub Activity
 
-### 🔥 GitHub Stats  
+### 🔥 GitHub Stats  (Working Version)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubterzioglu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubterzioglu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ubterzioglu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ubterzioglu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ### 🐍 Contribution Snake  
@@ -82,15 +87,19 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 ## 🌍 Social & Contact  
 <p align="left">
   <a href="https://www.linkedin.com/in/ubterzioglu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-fdd800?logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:ubterzioglu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ubterzioglu.de">
+    <img src="https://img.shields.io/badge/Website-fdd800?logo=firefox-browser&logoColor=000000" />
   </a>
 </p>
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4AFB&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fdd800&height=120&section=footer" />
 </p>
