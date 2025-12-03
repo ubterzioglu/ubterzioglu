@@ -74,9 +74,9 @@ I specialize in ensuring software quality end-to-end — from manual test analys
 </p>
 
 
-### 🐍 Contribution Snake  
+### Contribution Chart  
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubterzioglu&theme=tokyo-night" />
 </p>
 
 
